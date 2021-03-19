@@ -2,10 +2,12 @@
 
 Retrieval system for exact top 10 retrieval. Using TF-IDF and Cosine Similarities
 
-Input
+Input:
+
 A random document as the reference document from the dataset
 
-Output
+Output:
+
 10 closest documents in the dataset based on TF-IDF and Cosine Similarities
 
 ## Steps to run the code
